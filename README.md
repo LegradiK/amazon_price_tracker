@@ -94,4 +94,4 @@ To avoid being blocked by Amazon, avoid sending too many requests in a short tim
 
 # 🧑‍💻 Author
 
-LegradiK - [GitHub]("https://github.com/LegradiK")
+LegradiK - [GitHub](https://github.com/LegradiK)
